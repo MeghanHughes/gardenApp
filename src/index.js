@@ -6,7 +6,7 @@ const reducer = require('./reducer')
 
 // components
 const App = require('./components/app')
-const CounterApp = require('./components/counter-app')
+// const CounterApp = require('./components/counter-app')
 
 
 
